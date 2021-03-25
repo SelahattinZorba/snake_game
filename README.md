@@ -1,4 +1,4 @@
-# Snake Game 
+# Snake Game 🐍
 > basic snake game.
 
 ### Table of Contents
